@@ -1,0 +1,9 @@
+.product{
+    border: 1px solid rgb(189, 163, 163);
+    border-radius : 14px; 
+    margin-bottom: 15px; 
+    padding:o 10px 0 10px ;
+    margin-left: 15px;
+    height: 220px;
+    width: 300px;
+}
